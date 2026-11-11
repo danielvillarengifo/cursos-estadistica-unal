@@ -14,6 +14,6 @@
 | [`python/grafica-3d`](python/grafica-3d) | Fundamentos de Programación | Gráfica de una función de dos variables |
 | [`python/cifrado-cesar`](python/cifrado-cesar) | Fundamentos de Programación | Cifrado César en un cuaderno de Colab |
 
-Los proyectos más grandes de la carrera tienen su propio repositorio: [regresión logística bayesiana](https://github.com/dvillaunal/regresion-logistica-bayesiana), [series de tiempo ARIMA](https://github.com/dvillaunal/series-tiempo-arima-python), [análisis de supervivencia AMAR](https://github.com/dvillaunal/analisis-supervivencia-amar) y [geoestadística de la temperatura en Antioquia](https://github.com/dvillaunal/geoestadistica-temperatura-antioquia). Los 100 días de código de 2021 están en [100-dias-de-codigo](https://github.com/dvillaunal/100-dias-de-codigo).
+Los proyectos más grandes de la carrera tienen su propio repositorio: [regresión logística bayesiana](https://github.com/danielvillarengifo/regresion-logistica-bayesiana), [series de tiempo ARIMA](https://github.com/danielvillarengifo/series-tiempo-arima-python), [análisis de supervivencia AMAR](https://github.com/danielvillarengifo/analisis-supervivencia-amar) y [geoestadística de la temperatura en Antioquia](https://github.com/danielvillarengifo/geoestadistica-temperatura-antioquia). Los 100 días de código de 2021 están en [100-dias-de-codigo](https://github.com/danielvillarengifo/100-dias-de-codigo).
 
 > Los informes en PDF que llevaban números de documento se dejaron fuera; las fuentes `.Rmd` permiten generarlos de nuevo.
